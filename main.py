@@ -24,7 +24,7 @@ st.title("Lit Fitness Chile - Asistente Virtual")
 
 # Template de la plantilla
 template = '''
-Answer the question below in Spanish, based on the provided business information and conversation history.
+Answer the question below in Spanish, Enter a short but complete answer in case the client needs to resolve other doubts with a human advisor, always providing different channels to communicate with advisors .based on the provided business information and conversation history.
 
 Here is the business information for FAQ interaction:
 {info_context}
